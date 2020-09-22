@@ -64,7 +64,7 @@
 
 <br><br>
 
-# **[<ProJect rhombus> 구성 요소]**
+# [<ProJect rhombus> 구성 요소]
 
 <br>
 
