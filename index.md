@@ -53,6 +53,11 @@
 <img src="./img/관련이미지.png" width="80%">
 <br><br>
 
+
+**[동영상]**
+
+[<img src="./img/관련동영상1.png" width="80%">](https://www.youtube.com/watch?v=ZN6h_6Paz9c)
+
 # **[대표 이미지]**
 
 <img src="./img/관련이미지1.png" width="80%">
