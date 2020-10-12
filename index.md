@@ -2,6 +2,13 @@
 
 <br>
 
+1) 오브젝트 이름 : Rhombus Hit Box  
+
+|속성|속성 값|설명|비고|  
+|:---:|:---:|:---:|:---:|  
+|동쪽 보기|keycode“D” or →|동쪽을 바라보는 hit box로 플레이어가 조절함|GetKeyDown(0)|
+
+
 <img src="./img/파라미터(속성) 뽑아 보기.png" width="80%">
   
 <br>
