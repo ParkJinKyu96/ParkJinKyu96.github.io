@@ -6,7 +6,7 @@
 	   
 <img src="./게임 오브젝트 분해 (구성 요소 분석)_3.png" width="40%"> <img src="./게임 오브젝트 분해 (구성 요소 분석)_4.png" width="40%">
 	   
-	             [3. Timer / Rank]                                  [4. 난이도]
+	             [3. Timer / Rank]                                    [4. 난이도]
 	   
 <img src="./게임 오브젝트 분해 (구성 요소 분석)_5.png" width="40%">
 	   
