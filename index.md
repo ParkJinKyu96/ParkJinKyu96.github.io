@@ -2,7 +2,7 @@
 
 <img src="./게임 오브젝트 분해 (구성 요소 분석)_1.png" width="40%"> <img src="./게임 오브젝트 분해 (구성 요소 분석)_2.png" width="40%">
 	   
-	     [1. Rhombus hit box 겸 플레이어]                      [2. RArrow note / Trap note] 
+	     [1. Rhombus hit box 겸 플레이어]                       [2. RArrow note / Trap note] 
 	   
 <img src="./게임 오브젝트 분해 (구성 요소 분석)_3.png" width="40%"> <img src="./게임 오브젝트 분해 (구성 요소 분석)_4.png" width="40%">
 	   
