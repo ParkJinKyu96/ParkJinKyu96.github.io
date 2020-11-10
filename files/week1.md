@@ -27,4 +27,4 @@
 
 ## **_[동영상]_**
 ![1주차 구현_gif](https://user-images.githubusercontent.com/69668668/97883166-db1ed500-1d67-11eb-8efe-798bbc8f3b57.gif)
-<br>
+
