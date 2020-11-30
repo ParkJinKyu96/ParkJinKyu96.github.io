@@ -29,6 +29,7 @@
 * [3주차 구현](./files/week3.md)
 * [4주차 구현](./files/week4.md)
 * [5주차 구현](./files/week5.md)
+* [6주차 구현](./files/week6.md)
 # [컨셉] 
 ## **_메인 컨셉_**
 ### [순발력]
