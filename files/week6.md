@@ -26,4 +26,5 @@
 
 ## **_[동영상]_**
 
-* ![4_5주차구현](https://user-images.githubusercontent.com/69668668/99934303-fd24d980-2da0-11eb-8544-a1f02ea5394a.gif)
+* ![6주차구현](https://user-images.githubusercontent.com/69668668/100627732-b3bd2700-336a-11eb-9410-fee2b536116d.gif)
+
